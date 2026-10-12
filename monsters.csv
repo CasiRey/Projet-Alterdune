@@ -1,0 +1,4 @@
+Goblin;NORMAL;40;6;2;100;greet,insult
+Slime;NORMAL;25;4;1;80;bounce
+MiniTroll;MINIBOSS;80;12;4;120;stomp,taunt
+Dragon;BOSS;300;30;10;200;firebreath,roar,taunt

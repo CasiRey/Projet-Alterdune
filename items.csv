@@ -1,0 +1,4 @@
+Potion;HEAL;20;3
+Hi-Potion;HEAL;50;1
+Bomb;DAMAGE;30;2
+Elixir;HEAL;999;1
